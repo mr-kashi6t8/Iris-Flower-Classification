@@ -5,17 +5,3 @@ matplotlib
 seaborn
 scikit-learn
 
-
-🔹 Why these?
-
-streamlit → to run the web app
-
-pandas → dataset handling
-
-numpy → numerical operations
-
-matplotlib → plots (feature importance, confusion matrix)
-
-seaborn → advanced plots (heatmap, pairplot, kde, etc.)
-
-scikit-learn → model training, evaluation (RandomForest, accuracy, confusion matrix)

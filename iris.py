@@ -10,7 +10,7 @@ import numpy as np
 # -----------------------------
 # Load Dataset
 # -----------------------------
-df = pd.read_csv(r"D:\ML Projects\Iris-Flower-Classification\Iris.csv")
+df = pd.read_csv("Iris.csv")
 df.drop(columns=['Id'], inplace=True)
 
 # Train-Test Split
